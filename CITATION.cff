@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this unrefereed candidate."
+title: "Tree–network distinguishability fails under the Kimura two-parameter model"
+authors:
+  - name: Anonymous
+version: "1.1.0-candidate"
+date-released: 2026-10-05
+doi: 10.5281/zenodo.23165616
+url: https://github.com/ipitchford/k2p-tree-network-counterexample
+license: CC0-1.0

@@ -1,0 +1,93 @@
+{
+ "name": "L2-0 (4-cycle with a triangle; two reticulation leaves)",
+ "description": "all-rational network parameters in Theta0 (stochastic, positive definite); some edges are not embeddable",
+ "sd": [
+  [
+   "t0",
+   "h0",
+   true
+  ],
+  [
+   "t0",
+   "h1",
+   true
+  ],
+  [
+   "t1",
+   "h1",
+   true
+  ],
+  [
+   "t1",
+   "t0",
+   false
+  ],
+  [
+   "t2",
+   "t1",
+   false
+  ],
+  [
+   "h0",
+   "1",
+   false
+  ],
+  [
+   "h1",
+   "2",
+   false
+  ],
+  [
+   "t2",
+   "3",
+   false
+  ],
+  [
+   "t2",
+   "h0",
+   true
+  ]
+ ],
+ "params": {
+  "0": [
+   "16/45",
+   "20/43"
+  ],
+  "1": [
+   "10/21",
+   "1/20"
+  ],
+  "2": [
+   "1/2",
+   "79/100"
+  ],
+  "3": [
+   "21/44",
+   "1/5"
+  ],
+  "4": [
+   "15/28",
+   "1/10"
+  ],
+  "8": [
+   "1/2",
+   "7/43"
+  ],
+  "5": [
+   "1/2",
+   "3/4"
+  ],
+  "6": [
+   "1/2",
+   "3/4"
+  ],
+  "7": [
+   "1/2",
+   "3/4"
+  ]
+ },
+ "deltas": {
+  "h0": "4/5",
+  "h1": "1/2"
+ }
+}

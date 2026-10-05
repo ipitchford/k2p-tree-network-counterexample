@@ -1,0 +1,44 @@
+{
+  "title": "Tree–network distinguishability fails under the Kimura two-parameter model",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "creators": [
+    {
+      "name": "Anonymous"
+    }
+  ],
+  "version": "1.1.0-candidate",
+  "publication_date": "2026-10-05",
+  "access_right": "open",
+  "license": "cc-zero",
+  "keywords": [
+    "phylogenetic networks",
+    "Kimura two-parameter model",
+    "identifiability",
+    "exact counterexample"
+  ],
+  "description": "Unrefereed mathematical candidate: exact transition-biased continuous-time K2,3/tree coincidence with edge-specific K2P rates; anchoring and classification through level three on the larger stochastic region; written arbitrary-level propagation and a common prescribed-rate obstruction. Internal exact finite replay and supplied review revisions; no formal, authenticated external or empirical verification. Original prose/data CC0, code MIT.",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/ipitchford/k2p-tree-network-counterexample",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.48550/arXiv.2607.12919",
+      "relation": "cites",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1093/sysbio/sys064",
+      "relation": "cites",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1007/s11538-026-01695-3",
+      "relation": "cites",
+      "scheme": "doi"
+    }
+  ],
+  "doi": "10.5281/zenodo.23165616"
+}

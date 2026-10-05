@@ -1,0 +1,29 @@
+{
+  "version": "1.1.0-candidate",
+  "claims": [
+    {
+      "id": "K2P-C1",
+      "location": "Theorem 1",
+      "claim": "Exact 64-pattern K2,3/star coincidence in strict transition-biased continuous-time edge-specific K2P",
+      "evidence": "certificates/L2-1_example.json"
+    },
+    {
+      "id": "K2P-C2",
+      "location": "Theorems 2 and 7",
+      "claim": "Anchored iff distinguishable among reduced trinets through level three on Theta0",
+      "evidence": "code/verify_release.py; manuscript proofs"
+    },
+    {
+      "id": "K2P-C3",
+      "location": "Theorem 3 and Corollary 6",
+      "claim": "Anchoring suffices at all levels; coincidences exist for each n>=3 and k>=2",
+      "evidence": "written induction, local-section and implicit-function arguments"
+    },
+    {
+      "id": "K2P-C4",
+      "location": "Proposition 8",
+      "claim": "No L2-1/tree coincidence with one common prescribed kappa>1",
+      "evidence": "strict convexity proof and symbolic elimination"
+    }
+  ]
+}

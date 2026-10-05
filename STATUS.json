@@ -1,0 +1,31 @@
+{
+  "version": "1.1.0-candidate",
+  "status": "unrefereed-candidate",
+  "certifiedFinite": [
+    "64 exact probabilities for each of three seeds",
+    "Strict required region for L2-1, stochastic regions for L2-0/L2-2",
+    "Rank-three residual and rank-nine coordinate minors",
+    "83-class inventory match and 30/53/14 classification",
+    "Four negative controls, normal and optimized"
+  ],
+  "writtenProof": [
+    "Anchoring at all levels",
+    "Admissibility-preserving propagation and arbitrary leaf extension",
+    "Common prescribed kappa obstruction for L2-1"
+  ],
+  "exploratory": [
+    "400000-vector completion searches; 400-point grid where used",
+    "Level-four insertion-generated family, not exhaustive",
+    "Additional level-three floating-point hit",
+    "Historical network-only kappa=10 hit lacks tree-admissibility check"
+  ],
+  "knownInvalidHistoricalEvidence": [
+    "Earlier level3_analysis.log includes spurious near-boundary hits; not used for classification"
+  ],
+  "open": [
+    "L2-0/L2-2 embeddable coincidence",
+    "Anchoring necessity at every level",
+    "Different globally constant ratios for network and tree"
+  ],
+  "externalAssurance": "not established"
+}

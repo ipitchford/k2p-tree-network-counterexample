@@ -1,0 +1,1 @@
+See SOURCES.md for source-to-claim comparisons, exact version boundaries and the unsuccessful Englander full-text retrieval. Bibliographic presence alone is not support. No unsupported theorem locator was retained for that preprint.
